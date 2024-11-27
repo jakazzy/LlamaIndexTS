@@ -14,6 +14,7 @@ Available Vector Stores are shown on the sidebar to the left. Additionally the f
 - [PGVectorStore](../../../api/classes/PGVectorStore.md): An open-source vector store built on PostgreSQL, see [pgvector Github](https://github.com/pgvector/pgvector)
 - [PineconeVectorStore](../../../api/classes/PineconeVectorStore.md): A managed, cloud-native vector database, see [pinecone.io](https://www.pinecone.io/)
 - [WeaviateVectorStore](../../../api/classes/WeaviateVectorStore.md): An open-source, ai-native vector database, see [weaviate.io](https://weaviate.io/)
+- [AzureCosmosDBNoSqlVectorStore](../../../api/classes/AzureCosmosDBNoSqlVectorStore.md): A managed scalable vector database, see [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/vector-search)
 
 Check the [LlamaIndexTS Github](https://github.com/run-llama/LlamaIndexTS) for the most up to date overview of integrations.
 
